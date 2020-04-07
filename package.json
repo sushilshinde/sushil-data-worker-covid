@@ -1,0 +1,20 @@
+{
+  "name": "sushil-data-worker-covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node data-task.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushilshinde/sushil-data-worker-covid.git"
+  },
+  "keywords": [],
+  "author": "Sushil Shinde <shinde.sushil@gmail.com> (https://github.com/sushilshinde)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushilshinde/sushil-data-worker-covid/issues"
+  },
+  "homepage": "https://github.com/sushilshinde/sushil-data-worker-covid#readme"
+}
